@@ -1,0 +1,1 @@
+Write a JS program that performs binary search both functionally and non-functionally
